@@ -27,10 +27,12 @@ Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
 <img width="227" height="29" alt="image" src="https://github.com/user-attachments/assets/6c099af0-dd11-40fd-a64d-fcff545a6d7a" />
 
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 <img width="215" height="31" alt="image" src="https://github.com/user-attachments/assets/2958a3a1-6030-4436-a339-595b9178fb48" />
+
 
 
 Create the file Rose.txt
@@ -39,10 +41,12 @@ Create the file Rose.txt
 <img width="353" height="228" alt="image" src="https://github.com/user-attachments/assets/e05a8f52-b0f8-463f-9250-a83115b52a7c" />
 
 
+
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 <img width="323" height="106" alt="image" src="https://github.com/user-attachments/assets/d6b30bbb-fc41-484e-8106-39e37671666d" />
+
 
 Copy the file hello.txt into the file hello1.txt
 
@@ -51,15 +55,20 @@ Copy the file hello.txt into the file hello1.txt
 
 
 
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 <img width="265" height="104" alt="image" src="https://github.com/user-attachments/assets/b2665cb1-2063-40d3-a78d-1f63bbf03e1a" />
 
+
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 <img width="245" height="77" alt="image" src="https://github.com/user-attachments/assets/817bba81-ed9d-4ac7-aea2-423f52fb03c4" />
+
+
 
 
 List out all the associated file extensions 
@@ -68,10 +77,14 @@ List out all the associated file extensions
 <img width="403" height="494" alt="image" src="https://github.com/user-attachments/assets/f23fc239-d564-4626-8acd-f85a2591672b" />
 
 
+
+
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 <img width="288" height="109" alt="image" src="https://github.com/user-attachments/assets/9a074c48-29ae-474c-a045-5eb1b8a3257c" />
+
+
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -83,6 +96,8 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 <img width="227" height="53" alt="image" src="https://github.com/user-attachments/assets/7cde5fd3-9620-4ead-ba6f-6850979678f9" />
+
+
 
 
 
@@ -103,6 +118,8 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 
+
+
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 
@@ -111,6 +128,9 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 ## OUTPUT
 
 <img width="243" height="100" alt="image" src="https://github.com/user-attachments/assets/87bdaea7-0214-48cf-9a84-c83ea566ec3e" />
+
+
+
 
 
 
@@ -125,6 +145,9 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 <img width="392" height="127" alt="image" src="https://github.com/user-attachments/assets/0cba2430-4e75-46b6-8458-e1eddf6cd380" />
+
+
+
 
 
 Write a batch script that displays a simple menu with three options:
